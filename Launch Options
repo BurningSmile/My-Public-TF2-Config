@@ -1,0 +1,11 @@
+Iplay on linux, so I do not use dxlevel. If you use windows if you can use dxlevel 9, If you have to run dxlevel 8
+
+Windows launch options //change dxlevel and screen res if needed. Delete -dxelvel after first launch
+-dxlevel 90 -full -w 1920 -h 1080  -console -novid
+
+Linux launch options //change resolution to your screen res
+-full -w 1920 -h 1080  -console -novid
+
+My personal launch options (Do not use unless you have a 144hz screen)
+
+-full -w 1920 -h 1080  -console -novid -refresh 144
