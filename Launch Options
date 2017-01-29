@@ -1,4 +1,4 @@
-Iplay on linux, so I do not use dxlevel. If you use windows if you can use dxlevel 9, If you have to run dxlevel 8
+I play on linux, so I do not use dxlevel. If you use windows if you can use dxlevel 9, If you have to run dxlevel 8
 
 Windows launch options //change dxlevel and screen res if needed. Delete -dxelvel after first launch
 -dxlevel 90 -full -w 1920 -h 1080  -console -novid
