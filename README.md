@@ -108,7 +108,7 @@ Changes include
 - Changes explosions to blue sparks
 - http://www.teamfortress.tv/25647/no-explosion-smoke-script
 
-# Instalation
+# Installation
 - Move your current cfg and custom directorys to the desktop
 - Remove all TF2 launch options and place -default -autoconfig into launch options
 - Start TF, once it starts close it
