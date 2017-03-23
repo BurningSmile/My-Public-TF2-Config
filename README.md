@@ -109,9 +109,11 @@ Changes include
 - http://www.teamfortress.tv/25647/no-explosion-smoke-script
 
 # Installation
+```
 - Move your current cfg and custom directorys to the desktop
 - Remove all TF2 launch options and place -default -autoconfig into launch options
 - Start TF, once it starts close it
 - Put my cfg and custom folders into your TF directory
 - Edit launch options and use the launch options from the launch option file included
 - Start TF and enjoy
+```
