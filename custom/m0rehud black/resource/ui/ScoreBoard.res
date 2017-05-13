@@ -52,7 +52,7 @@
 		"pinCorner"	 "0"
 		"visible"	   "1"
 		"enabled"	   "1"
-		"image"	     "../hud/tournament_panel_blu"
+		"image"	     	"../hud/tournament_panel_blu"
 		"scaleImage"	"1"
 	       
 		"src_corner_height"     "23"			// pixels inside the image

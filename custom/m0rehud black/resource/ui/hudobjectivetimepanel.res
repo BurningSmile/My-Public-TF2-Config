@@ -35,7 +35,8 @@
 		
 		if_match
 		{
-			"visible" "0"
+			"visible"			"0"
+			"wide"				"0"
 		}
 	}
 	"TimePanelProgressBar"
@@ -62,6 +63,12 @@
 		"wrap"			"0"
 		"font"			"m0refont10"
 		"fgcolor"		"255 255 255 255"
+		
+		if_match
+		{
+			"visible"			"0"
+			"wide"				"0"
+		}
 	}			
 	"WaitingForPlayersBG"
 	{
@@ -87,6 +94,12 @@
 		"wrap"			"0"
 		"font"			"default"
 		"fgcolor"		"255 255 255 255"
+		
+		if_match
+		{
+			"visible"			"0"
+			"wide"				"0"
+		}
 	}			
 	"OvertimeBG"
 	{
@@ -112,6 +125,12 @@
 		"wrap"			"0"
 		"font"			"default"
 		"fgcolor"		"255 255 255 255"
+		
+		if_match
+		{
+			"visible"			"0"
+			"wide"				"0"
+		}
 	}			
 	"SuddenDeathBG"
 	{
@@ -137,6 +156,12 @@
 		"wrap" 				"0"
 		"font" 				"m0refont12"
 		"fgcolor"			"255 255 255 255"
+		
+		if_match
+		{
+			"visible"			"0"
+			"wide"				"0"
+		}
 	}
 	
 	"ServerTimeLimitLabelBG"
@@ -166,6 +191,12 @@
 		"wrap"			"0"
 		"font"			"default"
 		"fgcolor"		"255 255 255 255"
+		
+		if_match
+		{
+			"visible"			"0"
+			"wide"				"0"
+		}
 	}	
 	"SetupBG"
 	{

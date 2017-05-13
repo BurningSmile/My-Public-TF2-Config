@@ -25,7 +25,7 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"fgcolor"		"m0rewhite"
+		"fgcolor"		"0 255 0 255"
 		"font"		"m0refont24"
 	}
 	
