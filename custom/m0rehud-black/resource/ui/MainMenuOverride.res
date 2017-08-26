@@ -267,7 +267,8 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"fillcolor"		"0 0 0 100"
-	}	
+	}
+	
 	"CustomBG"
 	{
 		"ControlName"	"EditablePanel"

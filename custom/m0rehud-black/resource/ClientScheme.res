@@ -6958,27 +6958,22 @@ Scheme
             "font" "resource/fonts/Surface-Sharpened.ttf"
             "name" "Surface Sharpened Medium"
         }
-        "10" 
-        {
-            "font" "resource/fonts/Surface_bold.otf"
-            "name" "Surface-bold"
-        }       
-        "11" 
+		"10" 
         {
             "font" "resource/fonts/COOLVETI.TTF"
             "name" "Coolvetica"
         }
-        "12"
+        "11"
         {
             "font" "resource/fonts/tf2cross.ttf"
             "name" "tf2cross"
         }
-		"13"
+		"12"
 		{
 			"font" "resource/fonts/Garm3nFont.ttf"
 			"name" "Garm3nFont"
 		}
-		"14"
+		"13"
 		{
 			"font" "resource/fonts/Crosshairs.ttf"
 			"name" "broeselhud Crosshairs"

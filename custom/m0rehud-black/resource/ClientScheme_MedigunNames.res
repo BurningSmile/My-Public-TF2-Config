@@ -1795,6 +1795,17 @@ Scheme
                 "outline"   "0"
             }
         }
+		m0refont22
+        {
+            "1"
+            {
+                "name"      "surface-medium"
+                "tall"      "22"
+                "additive"  "0"
+                "antialias"     "1"
+                "outline"   "0"
+            }
+        }
         m0refont24
         {
             "1"
@@ -6949,25 +6960,20 @@ Scheme
         }
         "10" 
         {
-            "font" "resource/fonts/Surface_bold.otf"
-            "name" "Surface-bold"
-        }       
-        "11" 
-        {
             "font" "resource/fonts/COOLVETI.TTF"
             "name" "Coolvetica"
         }
-        "12"
+        "11"
         {
             "font" "resource/fonts/tf2cross.ttf"
             "name" "tf2cross"
         }
-		"13"
+		"12"
 		{
 			"font" "resource/fonts/Garm3nFont.ttf"
 			"name" "Garm3nFont"
 		}
-		"14"
+		"13"
 		{
 			"font" "resource/fonts/Crosshairs.ttf"
 			"name" "broeselhud Crosshairs"

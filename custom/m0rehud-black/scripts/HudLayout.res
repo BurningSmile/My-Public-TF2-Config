@@ -374,15 +374,15 @@
 
 	HudDamageIndicator
 	{
-		"fieldName" "HudDamageIndicator" 
-		"visible" "1" 
-		"enabled" "1" 
-		"MinimumWidth" "10" 
-		"MaximumWidth" "10" 
-		"StartRadius" "80" 
-		"EndRadius" "80" 
-		"MinimumHeight" "30" 
-		"MaximumHeight" "60" 
+		"fieldName" "HudDamageIndicator"
+		"visible" "1"
+		"enabled" "1"
+		"MinimumWidth" "8"
+		"MaximumWidth" "25"
+		"StartRadius" "80"
+		"EndRadius" "80"
+		"MinimumHeight" "40"
+		"MaximumHeight" "70"
 		"MinimumTime" "1"
 	}
 
@@ -448,7 +448,7 @@
 		"wide"	 "628"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "5"
+		"MaxDeathNotices" "12"
 		"IconScale"	  "0.35"
 		"LineHeight"	  "12"
 		"LineSpacing"	  "0"

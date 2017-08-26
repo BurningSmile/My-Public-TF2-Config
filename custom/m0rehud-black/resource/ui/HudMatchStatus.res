@@ -235,6 +235,11 @@
 		"delta_lifetime"	"1.3"
 		"delta_item_font"	"m0refont16"
 		
+		if_match
+		{
+			"zpos"				"5"
+		}
+		
 		"TimePanelValue"
 		{
 			"ControlName"	"CExLabel"
