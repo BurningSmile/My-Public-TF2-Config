@@ -1,0 +1,1239 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"[QuickFrag.com] Payload Maps | gameME"
+		"date"		"1325110309"
+		"addr"		"64.79.106.239:27015"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 Foundry #1 | gameME"
+		"date"		"1325110309"
+		"addr"		"64.79.106.237:27015"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 Badwater | gameME"
+		"date"		"1325110309"
+		"addr"		"64.79.106.235:27015"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 Goldrush | gameME"
+		"date"		"1325110309"
+		"addr"		"64.79.106.238:27015"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] Stock Maps | gameME"
+		"date"		"1325110309"
+		"addr"		"64.79.106.236:27015"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 Dustbowl #1 | gameME"
+		"date"		"1325110309"
+		"addr"		"64.79.106.233:27015"
+	}
+	"server"
+	{
+		"name"		"    [QuickFrag.com] 24/7 Badwater / Goldrush | gameME"
+		"date"		"1325110309"
+		"addr"		"66.151.138.43:27015"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 Dustbowl #2 | gameME"
+		"date"		"1325110309"
+		"addr"		"66.151.138.8:27015"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 2Fort #2 | gameME"
+		"date"		"1325110309"
+		"addr"		"66.151.138.31:27015"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - BADLANDS [US]"
+		"date"		"1325110502"
+		"addr"		"74.63.240.122:27319"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - FREIGHT [US]"
+		"date"		"1325110502"
+		"addr"		"74.63.240.123:27015"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - TURBINE #2 1000FPS [US]"
+		"date"		"1325110502"
+		"addr"		"74.63.240.123:27018"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - 2FORT #2 [US]"
+		"date"		"1325110502"
+		"addr"		"68.233.249.96:27225"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - 2FORT #3 [US]"
+		"date"		"1325110502"
+		"addr"		"199.167.147.235:27118"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - 2FORT [US]"
+		"date"		"1325110502"
+		"addr"		"68.233.249.96:27118"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - 2FORT CHRISTMAS [US]"
+		"date"		"1325110502"
+		"addr"		"199.167.147.235:27351"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - 5GORGE #2 [US]"
+		"date"		"1325110502"
+		"addr"		"199.167.147.234:27219"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - 5GORGE [US]"
+		"date"		"1325110502"
+		"addr"		"68.233.249.94:27219"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - BADWATER #2 [US]"
+		"date"		"1325110502"
+		"addr"		"199.167.147.234:27016"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - BADWATER [US]"
+		"date"		"1325110502"
+		"addr"		"74.63.240.122:27316"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - BARNBLITZ [US]"
+		"date"		"1325110502"
+		"addr"		"74.63.240.122:27015"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - CHRISTMAS WINTERTOWN"
+		"date"		"1325110502"
+		"addr"		"199.167.147.234:27230"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - COLDFRONT [US]"
+		"date"		"1325110502"
+		"addr"		"74.63.240.122:27016"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - DEGROOT #2 [US]"
+		"date"		"1325110502"
+		"addr"		"199.167.147.235:27352"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - DEGROOT KEEP [US]"
+		"date"		"1325110502"
+		"addr"		"68.233.249.96:27220"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - DOUBLECROSS [US]"
+		"date"		"1325110503"
+		"addr"		"68.233.249.96:27017"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - DUSTBOWL #2 [US]"
+		"date"		"1325110503"
+		"addr"		"74.63.240.122:27315"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - DUSTBOWL #3 [US]"
+		"date"		"1325110503"
+		"addr"		"199.167.147.234:27116"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - DUSTBOWL [US]"
+		"date"		"1325110503"
+		"addr"		"68.233.249.94:27116"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - EGYPT #2 [US]"
+		"date"		"1325110503"
+		"addr"		"199.167.147.234:27218"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - EGYPT [US]"
+		"date"		"1325110503"
+		"addr"		"68.233.249.94:27218"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - FASTLANE [US]"
+		"date"		"1325110503"
+		"addr"		"74.63.240.122:27115"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - FOUNDRY [US]"
+		"date"		"1325110503"
+		"addr"		"74.63.240.122:27228"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - FRONTEIR [US]"
+		"date"		"1325110503"
+		"addr"		"74.63.240.122:27117"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - GOLDRUSH #2 [US]"
+		"date"		"1325110503"
+		"addr"		"199.167.147.234:27017"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - GOLDRUSH [US]"
+		"date"		"1325110503"
+		"addr"		"68.233.249.94:27017"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - GRANARY [US]"
+		"date"		"1325110504"
+		"addr"		"74.63.240.122:27227"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - GRAVELPIT [US]"
+		"date"		"1325110504"
+		"addr"		"74.63.240.122:27018"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - HOODOO [US]"
+		"date"		"1325110504"
+		"addr"		"74.63.240.122:27225"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - HYDRO [US]"
+		"date"		"1325110504"
+		"addr"		"68.233.249.94:27016"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - IDLE #2 [US]"
+		"date"		"1325110504"
+		"addr"		"199.167.147.234:27018"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - LAKESIDE [US]"
+		"date"		"1325110504"
+		"addr"		"74.63.240.122:27118"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - MOUNTAINLAB [US]"
+		"date"		"1325110504"
+		"addr"		"74.63.240.122:27226"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - ORANGE CRITS 2 [US]"
+		"date"		"1325110504"
+		"addr"		"199.167.147.235:27350"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - ORANGE CRITS [US]"
+		"date"		"1325110504"
+		"addr"		"68.233.249.96:27350"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - PAYLOADS [US]"
+		"date"		"1325110505"
+		"addr"		"68.233.249.94:27115"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - TURBINE [US]"
+		"date"		"1325110505"
+		"addr"		"68.233.249.96:27015"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - WELL [US]"
+		"date"		"1325110505"
+		"addr"		"74.63.240.122:27017"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - WONKA ROTATION [US]"
+		"date"		"1325110505"
+		"addr"		"68.233.249.94:27117"
+	}
+	"server"
+	{
+		"name"		"WonkaGaming.net - YUKON [US]"
+		"date"		"1325110505"
+		"addr"		"74.63.240.122:27116"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | 5GORGE 24/7 - FAST RESPAWN"
+		"date"		"1325110917"
+		"addr"		"69.162.118.203:27117"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | BADLANDS 24/7 - FAST RESPAWN"
+		"date"		"1325110917"
+		"addr"		"64.31.12.27:27018"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | BADWATER 24/7 - FAST RESPAWN"
+		"date"		"1325110918"
+		"addr"		"64.31.12.27:27115"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | COLDFRONT 24/7 - FAST RESPAWN"
+		"date"		"1325110918"
+		"addr"		"69.162.118.203:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | CTF WELL 24/7 - FAST RESPAWN"
+		"date"		"1325110919"
+		"addr"		"69.162.118.203:27118"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | CUSTOM MAPS 24/7 - FAST RESPAWN"
+		"date"		"1325110919"
+		"addr"		"69.162.118.203:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | DOUBLECROSS 24/7 - FAST RESPAWN"
+		"date"		"1325110919"
+		"addr"		"64.31.12.27:27116"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | FASTLANE 24/7 - FAST RESPAWN"
+		"date"		"1325110920"
+		"addr"		"69.162.118.203:27017"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | FOUNDRY 24/7 - FAST RESPAWN"
+		"date"		"1325110920"
+		"addr"		"69.162.110.123:27118"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | FREIGHT 24/7 - FAST RESPAWN"
+		"date"		"1325110921"
+		"addr"		"69.162.118.203:27018"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | GOLDRUSH 24/7 - FAST RESPAWN"
+		"date"		"1325110921"
+		"addr"		"64.31.12.27:27017"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | GORGE 24/7 - FAST RESPAWN"
+		"date"		"1325110922"
+		"addr"		"174.34.166.35:27019"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | GRAVELPIT 24/7 - FAST RESPAWN"
+		"date"		"1325110922"
+		"addr"		"69.162.110.123:27117"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | GULLYWASH 24/7 - FAST RESPAWN"
+		"date"		"1325110923"
+		"addr"		"69.162.118.203:27019"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | HARVEST EVENT 24/7 - FAST RESPAWN"
+		"date"		"1325110923"
+		"addr"		"64.31.12.27:27117"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | HIGHTOWER 24/7 - FAST RESPAWN"
+		"date"		"1325110924"
+		"addr"		"69.162.110.123:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | HOODOO 24/7 - FAST RESPAWN"
+		"date"		"1325110924"
+		"addr"		"69.162.110.123:27116"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | JUNCTION 24/7 - FAST RESPAWN"
+		"date"		"1325110924"
+		"addr"		"174.34.166.35:27115"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | KING OF THE HILL 24/7 - FAST RESPAWN"
+		"date"		"1325110925"
+		"addr"		"174.34.166.35:27116"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | MANOR EVENT 24/7 - FAST RESPAWN"
+		"date"		"1325110925"
+		"addr"		"64.31.12.27:27118"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | SAWMILL 24/7 - FAST RESPAWN"
+		"date"		"1325110926"
+		"addr"		"174.34.166.35:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | TURBINE 24/7 - FAST RESPAWN"
+		"date"		"1325110926"
+		"addr"		"69.162.110.123:27017"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | WELL CP 24/7 - FAST RESPAWN"
+		"date"		"1325110927"
+		"addr"		"174.34.166.35:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | YUKON 24/7 - FAST RESPAWN"
+		"date"		"1325110927"
+		"addr"		"174.34.166.35:27017"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 2Fort #1 | gameME"
+		"date"		"1325112595"
+		"addr"		"64.79.106.234:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Freight Only"
+		"date"		"1325702386"
+		"addr"		"212.227.22.108:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Koth Badlands Only"
+		"date"		"1325702387"
+		"addr"		"82.165.135.184:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Yukon Only"
+		"date"		"1325702389"
+		"addr"		"82.165.35.112:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Nucleus Only"
+		"date"		"1325702390"
+		"addr"		"82.165.135.184:27020"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Gravelpit Only"
+		"date"		"1325702392"
+		"addr"		"82.165.133.26:27017"
+	}
+	"server"
+	{
+		"name"		"Yukon Only //New IP 82.165.35.112:27017"
+		"date"		"1325702393"
+		"addr"		"82.165.11.133:27017"
+	}
+	"server"
+	{
+		"name"		"Eyeaduct Only //New IP 82.165.35.112:27020"
+		"date"		"1325702395"
+		"addr"		"82.165.11.133:27020"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Gullywash Only"
+		"date"		"1325702396"
+		"addr"		"82.165.135.184:27022"
+	}
+	"server"
+	{
+		"name"		"Pipeline Only //New IP 212.227.22.108:27015"
+		"date"		"1325702397"
+		"addr"		"82.165.37.122:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Granary Only"
+		"date"		"1325702398"
+		"addr"		"82.165.133.26:27016"
+	}
+	"server"
+	{
+		"name"		"Dustbowl Only //New IP 87.106.128.109:27016"
+		"date"		"1325702400"
+		"addr"		"87.106.210.16:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Fastlane Only"
+		"date"		"1325702401"
+		"addr"		"82.165.133.25:27016"
+	}
+	"server"
+	{
+		"name"		"2Fort Only //New IP 87.106.128.109:27015"
+		"date"		"1325702402"
+		"addr"		"87.106.210.16:27015"
+	}
+	"server"
+	{
+		"name"		"Viaduct Only //New IP 87.106.128.109:27018"
+		"date"		"1325702404"
+		"addr"		"87.106.210.16:27018"
+	}
+	"server"
+	{
+		"name"		"Thunderm. Only //New IP 212.227.22.108:27018"
+		"date"		"1325702405"
+		"addr"		"82.165.37.122:27018"
+	}
+	"server"
+	{
+		"name"		"Vanilla 2Fort //New IP 82.165.35.112:27023"
+		"date"		"1325702406"
+		"addr"		"82.165.11.133:27023"
+	}
+	"server"
+	{
+		"name"		"Vanilla KOTH //New IP 82.165.35.112:27022"
+		"date"		"1325702407"
+		"addr"		"82.165.11.133:27022"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Nightfall Only"
+		"date"		"1325702409"
+		"addr"		"87.106.128.109:27020"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Orange X3 Only"
+		"date"		"1325702410"
+		"addr"		"87.106.128.109:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // CP Well Only"
+		"date"		"1325702411"
+		"addr"		"82.165.36.110:27015"
+	}
+	"server"
+	{
+		"name"		"Nightfall Only //New IP 87.106.128.109:27020"
+		"date"		"1325702412"
+		"addr"		"87.106.210.16:27020"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Badwater Only"
+		"date"		"1325702414"
+		"addr"		"82.165.138.144:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Goldrush Only"
+		"date"		"1325702415"
+		"addr"		"82.165.138.144:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Barnblitz Only"
+		"date"		"1325702416"
+		"addr"		"82.165.135.184:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Foundry Only"
+		"date"		"1325702417"
+		"addr"		"82.165.35.112:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla #1 // No Mods"
+		"date"		"1325702419"
+		"addr"		"82.165.36.110:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Badlands Only"
+		"date"		"1325702420"
+		"addr"		"82.165.138.144:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Upward Only"
+		"date"		"1325702421"
+		"addr"		"82.165.135.200:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // 2Fort Only"
+		"date"		"1325702423"
+		"addr"		"87.106.128.109:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // Attack Maps"
+		"date"		"1325702424"
+		"addr"		"82.165.36.110:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Coldfront Only"
+		"date"		"1325702425"
+		"addr"		"82.165.135.200:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Koth Sawmill Only"
+		"date"		"1325702427"
+		"addr"		"212.227.22.108:27021"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Junction Only"
+		"date"		"1325702428"
+		"addr"		"82.165.133.25:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // CTF Well Only"
+		"date"		"1325702429"
+		"addr"		"82.165.133.26:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Hydro Only"
+		"date"		"1325702431"
+		"addr"		"87.106.128.109:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Mountainlab Only"
+		"date"		"1325702432"
+		"addr"		"82.165.138.146:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Eyeaduct Only"
+		"date"		"1325702433"
+		"addr"		"82.165.35.112:27020"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Harvest Only"
+		"date"		"1325702435"
+		"addr"		"82.165.138.146:27016"
+	}
+	"server"
+	{
+		"name"		"Hillarena Only //New IP 212.227.22.108:27020"
+		"date"		"1325702436"
+		"addr"		"82.165.37.122:27020"
+	}
+	"server"
+	{
+		"name"		"Freight Only //New IP 212.227.22.108:27019"
+		"date"		"1325702438"
+		"addr"		"82.165.37.122:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Thundermountain Only"
+		"date"		"1325702439"
+		"addr"		"212.227.22.108:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Lakeside Only"
+		"date"		"1325702440"
+		"addr"		"82.165.135.184:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla #2 // No Mods"
+		"date"		"1325702442"
+		"addr"		"87.106.128.109:27022"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Turbine Only"
+		"date"		"1325702443"
+		"addr"		"82.165.133.25:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // CP Maps"
+		"date"		"1325702444"
+		"addr"		"82.165.36.110:27020"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // Payload Race Maps"
+		"date"		"1325702446"
+		"addr"		"82.165.35.112:27021"
+	}
+	"server"
+	{
+		"name"		"Vanilla PLR //New IP 82.165.35.112:27021"
+		"date"		"1325702447"
+		"addr"		"82.165.11.133:27021"
+	}
+	"server"
+	{
+		"name"		"Sawmill (Koth) //New IP 212.227.22.108:27021"
+		"date"		"1325702448"
+		"addr"		"82.165.37.122:27021"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Pipeline Only"
+		"date"		"1325702450"
+		"addr"		"212.227.22.108:27015"
+	}
+	"server"
+	{
+		"name"		"Vanilla #2 //New IP 87.106.128.109:27022"
+		"date"		"1325702451"
+		"addr"		"87.106.210.16:27022"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Egypt Only"
+		"date"		"1325702453"
+		"addr"		"82.165.133.25:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Doublecross Only"
+		"date"		"1325702454"
+		"addr"		"82.165.35.112:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Hightower Only"
+		"date"		"1325702455"
+		"addr"		"82.165.135.200:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Degrootkeep Only"
+		"date"		"1325702457"
+		"addr"		"82.165.135.184:27021"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // 5Gorge Only"
+		"date"		"1325702458"
+		"addr"		"82.165.135.184:27015"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Gorge Only"
+		"date"		"1325702459"
+		"addr"		"82.165.138.144:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Sawmill Only"
+		"date"		"1325702461"
+		"addr"		"82.165.135.200:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // Dustbowl Only"
+		"date"		"1325702462"
+		"addr"		"82.165.35.112:27024"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // Badwater Only"
+		"date"		"1325702463"
+		"addr"		"82.165.35.112:27025"
+	}
+	"server"
+	{
+		"name"		"Manor Only //New IP 82.165.35.112:27016"
+		"date"		"1325702465"
+		"addr"		"82.165.11.133:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // CTF Maps"
+		"date"		"1325702466"
+		"addr"		"82.165.36.110:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Hoodoo Only"
+		"date"		"1325702468"
+		"addr"		"82.165.36.110:27016"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // 2Fort Only"
+		"date"		"1325702469"
+		"addr"		"82.165.35.112:27023"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Viaduct Only"
+		"date"		"1325702470"
+		"addr"		"87.106.128.109:27018"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Vanilla // No Mods // Koth Maps"
+		"date"		"1325702472"
+		"addr"		"82.165.35.112:27022"
+	}
+	"server"
+	{
+		"name"		"Hydro Only //New IP 87.106.128.109:27017"
+		"date"		"1325702473"
+		"addr"		"87.106.210.16:27017"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Frontier Only"
+		"date"		"1325702475"
+		"addr"		"82.165.135.184:27018"
+	}
+	"server"
+	{
+		"name"		"Orange X3 Only //New IP 87.106.128.109:27019"
+		"date"		"1325702476"
+		"addr"		"87.106.210.16:27019"
+	}
+	"server"
+	{
+		"name"		"http://www.saigns.de // Manor Only"
+		"date"		"1325702478"
+		"addr"		"82.165.35.112:27016"
+	}
+	"server"
+	{
+		"name"		"Doublecross Only //New IP 82.165.35.112:27015"
+		"date"		"1325702479"
+		"addr"		"82.165.11.133:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | 2FORT 24/7 - FAST RESPAWN"
+		"date"		"1325704679"
+		"addr"		"178.63.95.86:27018"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | BADLANDS 24/7 - FAST RESPAWN"
+		"date"		"1325704679"
+		"addr"		"178.63.95.86:27019"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | BADWATER 24/7 - FAST RESPAWN"
+		"date"		"1325704680"
+		"addr"		"178.63.95.86:27017"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | CTF WELL 24/7 - FAST RESPAWN"
+		"date"		"1325704680"
+		"addr"		"178.63.83.75:27118"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | DEGROOTKEEP 24/7 - FAST RESPAWN"
+		"date"		"1325704681"
+		"addr"		"178.63.92.146:27018"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | EYEADUCT 24/7 - FAST RESPAWN"
+		"date"		"1325704681"
+		"addr"		"178.63.92.146:27117"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | FOUNDRY 24/7 - FAST RESPAWN"
+		"date"		"1325704682"
+		"addr"		"178.63.92.146:27118"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | GOLDRUSH 24/7 - FAST RESPAWN"
+		"date"		"1325704683"
+		"addr"		"178.63.95.86:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | GORGE 24/7 - FAST RESPAWN"
+		"date"		"1325704683"
+		"addr"		"178.63.92.146:27019"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | GRANARY 24/7 - FAST RESPAWN"
+		"date"		"1325704684"
+		"addr"		"178.63.95.86:27115"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | HARVEST EVENT 24/7 - FAST RESPAWN"
+		"date"		"1325704684"
+		"addr"		"178.63.95.86:27116"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | HIGHTOWER 24/7 - FAST RESPAWN"
+		"date"		"1325704685"
+		"addr"		"178.63.83.75:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | HOODOO 24/7 - FAST RESPAWN"
+		"date"		"1325704685"
+		"addr"		"178.63.83.75:27116"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | JUNCTION 24/7 - FAST RESPAWN"
+		"date"		"1325704686"
+		"addr"		"178.63.92.146:27115"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | KING OF THE HILL 24/7 - FAST RESPAWN"
+		"date"		"1325704686"
+		"addr"		"178.63.92.146:27116"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | MOUNTAIN LAB 24/7 - FAST RESPAWN"
+		"date"		"1325704687"
+		"addr"		"178.63.83.75:27115"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | PIPELINE 24/7 - FAST RESPAWN"
+		"date"		"1325704687"
+		"addr"		"178.63.83.75:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | SAWMILL 24/7 - FAST RESPAWN"
+		"date"		"1325704688"
+		"addr"		"178.63.92.146:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | THUNDER MOUNTAIN 24/7 - FAST RESPAWN"
+		"date"		"1325704689"
+		"addr"		"178.63.83.75:27019"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [EU] | YUKON 24/7 - FAST RESPAWN"
+		"date"		"1325704689"
+		"addr"		"178.63.92.146:27017"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | 5GORGE 24/7 - FAST RESPAWN"
+		"date"		"1325704690"
+		"addr"		"69.162.118.202:27117"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | COLDFRONT 24/7 - FAST RESPAWN"
+		"date"		"1325704690"
+		"addr"		"69.162.118.202:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | CTF WELL 24/7 - FAST RESPAWN"
+		"date"		"1325704691"
+		"addr"		"69.162.118.202:27118"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | FASTLANE 24/7 - FAST RESPAWN"
+		"date"		"1325704692"
+		"addr"		"69.162.118.202:27017"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | FOUNDRY 24/7 - FAST RESPAWN"
+		"date"		"1325704692"
+		"addr"		"69.162.110.122:27118"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | FREIGHT 24/7 - FAST RESPAWN"
+		"date"		"1325704693"
+		"addr"		"69.162.118.202:27019"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | GRAVELPIT 24/7 - FAST RESPAWN"
+		"date"		"1325704693"
+		"addr"		"69.162.110.122:27117"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | HIGHTOWER 24/7 - FAST RESPAWN"
+		"date"		"1325704694"
+		"addr"		"69.162.110.122:27015"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | PIPELINE 24/7 - FAST RESPAWN"
+		"date"		"1325704695"
+		"addr"		"69.162.110.122:27016"
+	}
+	"server"
+	{
+		"name"		"www.nighteam.com [US] | TURBINE 24/7 - FAST RESPAWN"
+		"date"		"1325704695"
+		"addr"		"69.162.110.122:27017"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 Dustbowl #1 | gameME"
+		"date"		"1326058914"
+		"addr"		"64.79.106.240:27030"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 Badwater | gameME"
+		"date"		"1326058915"
+		"addr"		"64.79.106.240:27025"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 Goldrush | gameME"
+		"date"		"1326058915"
+		"addr"		"64.79.106.241:27015"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 Foundry #1 | gameME"
+		"date"		"1326058916"
+		"addr"		"64.79.106.240:27035"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] Stock Maps | gameME"
+		"date"		"1326058917"
+		"addr"		"64.79.106.241:27030"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] Payload Maps | gameME"
+		"date"		"1326058917"
+		"addr"		"64.79.106.241:27025"
+	}
+	"server"
+	{
+		"name"		"[QuickFrag.com] 24/7 2Fort #1 | gameME"
+		"date"		"1326058918"
+		"addr"		"64.79.106.240:27015"
+	}
+	"server"
+	{
+		"name"		"JigglysFunHouse.net #1 Trading Post gameME"
+		"date"		"1326420918"
+		"addr"		"64.85.162.148:27015"
+	}
+	"server"
+	{
+		"name"		"JigglysFunHouse.net #2 Source Craft gameME"
+		"date"		"1326420919"
+		"addr"		"64.85.162.149:27015"
+	}
+	"server"
+	{
+		"name"		"JigglysFunHouse.net #3 Trading Post gameME"
+		"date"		"1326420920"
+		"addr"		"64.85.162.150:27015"
+	}
+	"server"
+	{
+		"name"		" GHS & Pwndora Present  Trade Center"
+		"date"		"1326421208"
+		"addr"		"206.220.175.132:27016"
+	}
+	"server"
+	{
+		"name"		" GHS & Pwndora Present  Trade Center"
+		"date"		"1326421209"
+		"addr"		"206.220.173.242:27016"
+	}
+	"server"
+	{
+		"name"		"    Gameliberty.com | Payload Maps | NYC"
+		"date"		"1326421327"
+		"addr"		"63.251.20.159:27016"
+	}
+	"server"
+	{
+		"name"		"    Gameliberty.com | Payload Maps |LA"
+		"date"		"1326421328"
+		"addr"		"66.150.188.116:27016"
+	}
+	"server"
+	{
+		"name"		"    Gameliberty.com | Valve Maps | LA"
+		"date"		"1326421328"
+		"addr"		"66.150.188.116:27015"
+	}
+	"server"
+	{
+		"name"		"    Gameliberty.com | Valve Maps | NYC"
+		"date"		"1326421329"
+		"addr"		"63.251.20.159:27015"
+	}
+	"server"
+	{
+		"name"		"    Jiggly's starts here"
+		"date"		"1326421329"
+		"addr"		"64.85.162.148:27015"
+	}
+	"server"
+	{
+		"name"		"    Jiggly's starts here"
+		"date"		"1326421329"
+		"addr"		"64.85.162.149:27015"
+	}
+	"server"
+	{
+		"name"		"    Jiggly's starts here"
+		"date"		"1326421329"
+		"addr"		"64.85.162.150:27015"
+	}
+	"server"
+	{
+		"name"		"    Jiggly's starts here"
+		"date"		"1326421329"
+		"addr"		"64.85.162.151:27015"
+	}
+	"server"
+	{
+		"name"		"    NBS"
+		"date"		"1326421329"
+		"addr"		"64.151.138.203:27015"
+	}
+	"server"
+	{
+		"name"		"    LLF here"
+		"date"		"1326421329"
+		"addr"		"198.245.51.34:27015"
+	}
+	"server"
+	{
+		"name"		"    LLF here"
+		"date"		"1326421329"
+		"addr"		"65.18.168.31:27015"
+	}
+	"server"
+	{
+		"name"		"    LLF here"
+		"date"		"1326421329"
+		"addr"		"65.18.168.31:27055"
+	}
+	"server"
+	{
+		"name"		"    Nightteam Server"
+		"date"		"1326421329"
+		"addr"		"178.63.95.114:27016"
+	}
+	"server"
+	{
+		"name"		"    Nightteam Server"
+		"date"		"1326421329"
+		"addr"		"178.63.95.114:27017"
+	}
+	"server"
+	{
+		"name"		"    Nightteam Server"
+		"date"		"1326421329"
+		"addr"		"178.63.95.114:27018"
+	}
+	"server"
+	{
+		"name"		"    Nightteam Server"
+		"date"		"1326421329"
+		"addr"		"178.63.95.114:27019"
+	}
+	"server"
+	{
+		"name"		"    Nightteam Server"
+		"date"		"1326421329"
+		"addr"		"178.63.95.114:27115"
+	}
+	"server"
+	{
+		"name"		"    Nightteam Server"
+		"date"		"1326421329"
+		"addr"		"178.63.95.114:27116"
+	}
+	"server"
+	{
+		"name"		"    Nightteam Server"
+		"date"		"1326421329"
+		"addr"		"178.63.95.114:27117"
+	}
+}
