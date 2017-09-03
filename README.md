@@ -1,11 +1,11 @@
 # My-Public-TF2-Config
 This is a public version of my custom and CFG folders.
 
-This config is designed for My Linux install but should work on Windows 
+This config is designed for My Linux install but should work on Windows
 and OSX just fine.
 
-This is designed to be ran on systems with a quadcore or better CPU. 
-Running this on a dual core WILL cause problems. Edit cfg/gfx.cfg with 
+This is designed to be ran on systems with a quadcore or better CPU.
+Running this on a dual core WILL cause problems. Edit cfg/gfx.cfg with
 Comanglia's dual core config.
 
 Included are the following
@@ -15,7 +15,7 @@ Included are the following
 # Autoexec
 - Execution of graphics and binds configs
 - Quick aliases to change server levels as long as Rcon has already been entered
-- Easy setup for server connect aliases 
+- Easy setup for server connect aliases
 - Valve Demo record settings set to record to a demos directory
 - Valve demo support set to record mp_tournament matches, This has the problem of also recording public games, I have a workaround for it in binds.cfg
 - Various competitive settings and hud tweaks
@@ -28,13 +28,13 @@ Included are the following
 - Null cancel movement script
 - Loadout changer via f7 -f10 (Useful for quick forward/backward spawning)
 - Binding of DEL/END/PGDWN to Scout Soldier Demo
-- Fix for demosupport recording public games. You press this at the start of official matches to make a mark called "Competitive game start" You will need to press this to avoid having the demo deleted after the game is over. This also starts a fresh demo recording at the start of the game so that the pregame is not recorded.
-- Kill bind 
+- Fix for demo support recording public games. You press this at the start of official matches to make a mark called "Competitive game start" You will need to press this to avoid having the demo deleted after the game is over. This also starts a fresh demo recording at the start of the game so that the pregame is not recorded.
+- Kill bind
 - Hud and sound reload bind
 - Viewmodel toggle bind
 - Scoreboard with net_graph 1
 
-# GFX 
+# GFX
 - Comanglia's graphics config with the following tweaks
     - Facial features turned on
     - High quality network settings turned on
@@ -50,7 +50,7 @@ Included are the following
 - Weather disabled
 - Quad core threading
 
-# MathcmakingTF2Config
+# MatchmakingTF2Config
 - Config that is designed to be exec'd while in a matchmaking game
 - Designed for users with bad fps in MM
 - Creator can be found here- https://www.reddit.com/r/tf2/comments/4k551m/tf2_matchmaking_config/
@@ -58,7 +58,6 @@ Included are the following
 # Pub
 - Turns off text chat and voice chat
 - Turns on hud 3d player class model
-- Turns off Skial logo if you are on a Skial server
 
 # Rollout
 - Script for practicing rollouts, dependency for Sollyrollout_fakelag and Sollyrollout_nofakelag
